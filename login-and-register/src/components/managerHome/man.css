@@ -1,0 +1,13 @@
+.harsh h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: darkblue;
+}
+.harsh p{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.harsh table{
+    margin-top: 190px;
+}
